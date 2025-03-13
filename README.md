@@ -28,7 +28,7 @@ Use K-Means clustering to obtain percent coverage of a marine imagery with a con
 
 
 
-## Model Use Case #2: Biofouling detection
+## Model Use-Case #2: Biofouling detection
 ### Hypothesis: If percent coverage of laser clusters is determined to be above 5% at any time, the camera is experiencing biofouling.
 
 During investigation into anomalous data while developing use-case #1, I detected biofouling on the camera. Having chosen a random, representative image from the end of the dataset that yielded a clear separation between the desired clusters, I applied the algorithm to the entire set of images and got puzzling results: 
